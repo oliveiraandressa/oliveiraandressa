@@ -1,0 +1,12 @@
+{
+  "name": "cypress-automation-examples",
+  "version": "1.0.0",
+  "description": "Cypress automation test examples",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
