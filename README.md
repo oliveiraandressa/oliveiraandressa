@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Andressa Oliveira  
+# 👋 Olá, eu sou Andressa   
 
 💻 **Analista de QA | Desenvolvedora Front-end | Apaixonada por qualidade e melhoria contínua**
 
