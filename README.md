@@ -22,4 +22,11 @@ Meu objetivo é proporcionar experiências consistentes, estáveis e livres de f
 
 ---
 
+
+## Meu Guia de QA 📘
+
+Criei um guia completo de QA com dicas, técnicas e referências úteis para testadores.  
+Acesse online: [Guia de QA](https://oliveiraandressa.github.io/QAland/a)
+
+
 ✨ _“Testar é garantir que cada detalhe funcione como deveria — e encontrar o que ninguém mais vê.”_
