@@ -8,9 +8,11 @@
 ![💡 Problem Solver](https://img.shields.io/badge/Problem%20Solver-%F0%9F%92%A1-ffcc00)
 
 💻 **Desenvolvedora Front-end & QA Engineer** com mais de 10 anos de experiência criando interfaces escaláveis, testáveis e de alta performance.  
+
 ⚙️ **Experiência também em Back-end**, garantindo visão completa do ciclo de desenvolvimento.
 
 🎯 Transformo ideias em produtos bem estruturados, com código limpo, testes confiáveis e foco em experiência do usuário.  
+
 🚀 Busco unir design, qualidade e performance para entregar soluções que realmente façam diferença.
 
 ---
