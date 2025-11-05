@@ -25,7 +25,8 @@ Trabalho bem em equipe, mas também sou autônoma e focada quando preciso constr
 📍 **Jundiaí, São Paulo, Brasil**  
 📨 [E-mail](mailto:ms.andressa.oliveira@gmail.com)  
 🌐 [GitHub](https://oliveiraandressa.github.io)  
-🔗 [LinkedIn](https://www.linkedin.com/in/andressadeoliveira93)
+🔗 [LinkedIn](https://www.linkedin.com/in/andressadeoliveira93)  
+⚡ [Automação sob demanda](https://oliveiraandressa.github.io/vicsa-automation/)
 
 ---
 
@@ -96,7 +97,8 @@ I collaborate well in teams but am also independent and focused when I need to b
 📍 **Jundiaí, São Paulo, Brazil**  
 📨 [Email](mailto:ms.andressa.oliveira@gmail.com)  
 🌐 [GitHub](https://oliveiraandressa.github.io)  
-🔗 [LinkedIn](https://www.linkedin.com/in/andressadeoliveira93)
+🔗 [LinkedIn](https://www.linkedin.com/in/andressadeoliveira93)  
+⚡ [Automation](https://oliveiraandressa.github.io/vicsa-automation/)
 
 ---
 
