@@ -130,8 +130,8 @@ I collaborate well in teams but am also independent and focused when I need to b
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliveiraandressa&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraandressa&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oliveiraandressa&show_icons=true&theme=graywhite&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraandressa&layout=compact&theme=graywhite&hide_border=true)
 
 ---
 
